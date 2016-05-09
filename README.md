@@ -1,3 +1,3 @@
-My implementations of algorithms and data structures as I'm going through the CLRS book. 
+My implementations of algorithms and data structures as I'm going through the CLRS book. Also using this to store programming problems. I'm storing in a directory corresponding to where I've found. 
 
-In each subdirectory, run make to compile. It produces an executable that allows user testing of the algorithm by input via command line.
+I'm storing the implementation of data structure and algorithms in the /src directory. There is a makefile in each of the subdirectories. Running "make" compiles an executable that allows user testing of the algorithm by input via command line.
